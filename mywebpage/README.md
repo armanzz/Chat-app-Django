@@ -8,3 +8,6 @@ TO RUN THE WEBPAGE:
   
   ```npm start```
   
+
+
+![Screenshot (92)](https://github.com/user-attachments/assets/37256042-5cea-45d6-bbd3-fa8be01ee5c0)
