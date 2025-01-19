@@ -1,0 +1,21 @@
+.right-panel {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.offer-button {
+  background-color: #ff6f61;
+  color: white;
+  padding: 10px 15px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.offer-button:hover {
+  background-color: #ffd700;
+  transform: scale(1.1);
+}
