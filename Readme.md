@@ -1,5 +1,5 @@
 
-# Django-React-Realtime-Chat-APP 
+# Django-React-Chat-APP 
  Django -React realtime chat web application using Websocket
 
 ### This repository contains a Django WebSocket server and a React client for a real-time chat application.
@@ -18,7 +18,11 @@
 * Watch the demonstration video below to see the application in action:
 
 
-https://github.com/user-attachments/assets/3f52e550-260a-413d-a181-5efa7d5f4dc8
+
+
+https://github.com/user-attachments/assets/1a915ef0-f4e1-4212-9c26-98e4d4118ca0
+
+
 
 
 
@@ -30,8 +34,8 @@ https://github.com/user-attachments/assets/3f52e550-260a-413d-a181-5efa7d5f4dc8
 To get started, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/Faizgeeky/Django_RealTime_ChatApp.git
-cd Faiz-Z_Tech-Task
+git clone https://github.com/armanzz/Chat-app-Django.git
+cd Chat-app-Django
 ```
 
 ### Setting Up the Django WebSocket Server
@@ -71,8 +75,4 @@ cd Faiz-Z_Tech-Task
 ### How the Application Works
 
 This project uses Django Rest Framework (DRF) APIs and Django Channels to build a real-time chat application. 
-
-### Postman Collection
-
-A `API.postman_collection.json` file is included for easy testing of the API endpoints with Postman. Simply import this file into Postman to get started.
 
